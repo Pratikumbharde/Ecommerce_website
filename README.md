@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bdefadf-da0d-4106-ac29-3f1128c71785" />
+
 # E-commerce Web Application
 
 A full-stack e-commerce platform built with React.js, Node.js, Express, and MongoDB. This application provides a complete online shopping experience with user authentication, product management, shopping cart functionality, and payment integration.
