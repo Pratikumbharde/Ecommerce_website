@@ -29,6 +29,8 @@ A full-stack e-commerce platform built with React.js, Node.js, Express, and Mong
 - Context API for state management
 - Axios for API calls
 - CSS for styling
+- Framer Motion for animations
+- Material and bootstrap
 
 ### Backend
 - Node.js & Express.js
